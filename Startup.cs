@@ -35,6 +35,12 @@ namespace FIrstProject
                 );
 
                 routes.MapRoute(
+                    name: "movies",
+                    template: "movies",
+                    defaults: new { Controller = "Movies" }
+                );
+
+                routes.MapRoute(
                     name: "messages",
                     template: "say/{*message}",
                     defaults: new { controller = "Messages", action = "ShowMessage" }

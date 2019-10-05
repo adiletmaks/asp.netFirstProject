@@ -25,3 +25,6 @@ C:\Users\adile\source\repos\FIrstProject\FIrstProject\obj\Debug\netcoreapp2.1\Ra
 C:\Users\adile\source\repos\FIrstProject\FIrstProject\obj\Debug\netcoreapp2.1\Razor\views\Messages\ShowMessage.g.cshtml.cs
 C:\Users\adile\source\repos\FIrstProject\FIrstProject\obj\Debug\netcoreapp2.1\Razor\views\Calculator\Sum.g.cshtml.cs
 C:\Users\adile\source\repos\FIrstProject\FIrstProject\obj\Debug\netcoreapp2.1\Razor\views\Calculator\PlusTen.g.cshtml.cs
+C:\Users\adile\source\repos\FIrstProject\FIrstProject\obj\Debug\netcoreapp2.1\Razor\views\Movies\Index.g.cshtml.cs
+C:\Users\adile\source\repos\FIrstProject\FIrstProject\obj\Debug\netcoreapp2.1\Razor\views\Movies\Add.g.cshtml.cs
+C:\Users\adile\source\repos\FIrstProject\FIrstProject\obj\Debug\netcoreapp2.1\Razor\views\_ViewImports.g.cshtml.cs
